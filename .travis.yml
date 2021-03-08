@@ -1,6 +1,6 @@
 language: csharp
 mono: none
-dotnet: 3.10.00
+dotnet: 5.0.200
 solution: WebAppDemo.sln
 script:
   - dotnet restore
